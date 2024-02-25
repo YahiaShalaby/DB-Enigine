@@ -1,0 +1,12 @@
+pcs, Table, pcs1.csv, Src\pcs1.csv
+pcs, Table, pcs2.csv, Src\pcs2.csv
+transcripts, Table, transcripts1.csv, Src\transcripts1.csv
+transcripts, Table, transcripts2.csv, Src\transcripts2.csv
+students, Table, students1.csv, Src\students1.csv
+students, Table, students2.csv, Src\students2.csv
+courses, Table, courses1.csv, Src\courses1.csv
+courses, Table, courses2.csv, Src\courses2.csv
+students_id,SparseIndex,studentsid.csv,Src/studentsid.csv
+students_first_name,DenseIndex,studentsfirst_nameDense.csv,Src/studentsfirst_nameDense.csv
+students_first_name,SparseIndex,studentsfirst_name.csv,Src/studentsfirst_name.csv
+students, Table, students3.csv, Src\students3.csv
